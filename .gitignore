@@ -1,0 +1,4 @@
+/target
+# Yeah no we're not uploading our keys here
+*.env
+.env
